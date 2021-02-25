@@ -1,0 +1,8 @@
+{
+  "src/hooks/*.ts": {
+    "type": "hook"
+  },
+  "src/components/*.vue": {
+    "type": "comp"
+  }
+}
